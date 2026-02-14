@@ -43,12 +43,15 @@ PROJECT-TIC-TAC-TOE/
 
 ## ▶️ How to Run
 Make sure Python 3 is installed.
-Clone the repository:
-git clone https://github.com/JAY007-think/PROJECT-Tic-Tac-Toe
-Navigate to the folder:
-open terminal: 
-    Run the program:
-        python main.py
+
+step 1️⃣. Clone the repository:
+
+step 2️⃣. git clone https://github.com/JAY007-think/PROJECT-Tic-Tac-Toe
+
+step 3️⃣.Navigate to the folder:
+→ open terminal:
+    → Run the program:
+        → python main.py
 
 ---
 
